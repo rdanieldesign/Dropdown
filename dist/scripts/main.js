@@ -1,4 +1,4 @@
 $('section').click(function(){
-  $('section').removeClass('open')
+  $('section').removeClass('open');
   $(this).addClass('open');
 });

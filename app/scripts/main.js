@@ -1,1 +1,4 @@
-console.log('The Iron Yard Rocks');
+$('section').click(function(){
+  $('section').removeClass('open')
+  $(this).addClass('open');
+});

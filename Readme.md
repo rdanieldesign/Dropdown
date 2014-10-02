@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## Dropdown Project
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+Assignment 7 at the Iron Yard.
